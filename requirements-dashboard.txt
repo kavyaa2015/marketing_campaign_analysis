@@ -1,0 +1,4 @@
+# Dashboard dependencies. Install with: py -3 -m pip install -r requirements-dashboard.txt
+pandas
+streamlit
+plotly

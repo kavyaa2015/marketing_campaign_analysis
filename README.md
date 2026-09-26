@@ -4,6 +4,13 @@
 
 An end-to-end data analytics project that analyzes customer demographics, purchasing behavior, campaign responses, product spending, purchasing channels, and customer segments to identify high-value customers and improve marketing campaign targeting.
 
+## Submission Deliverables
+
+- Python pipeline: cleaning, EDA, business analysis, visualizations, and rule-based segmentation in `src/`.
+- SQL DDL, data load, analytical queries, and reusable views in `sql/`.
+- Interactive Streamlit dashboard in `app.py`, with required demographic filters and downloadable filtered data.
+- [Project report](PROJECT_REPORT.md) documenting the problem, approach, findings, recommendations, and limitations.
+
 ---
 
 ## Project Overview
